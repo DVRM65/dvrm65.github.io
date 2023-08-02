@@ -1,8 +1,0 @@
-#+TITLE: DVRM65
-#+STARTUP: showall hidestars indent
-
-* About me
-- Torah
-- Emacs
-- D&D
-  
